@@ -1,4 +1,4 @@
 module.exports = {
-    output: 'export', // 设置为 'export'，以便进行静态导出
+    output: 'export',  // 确保使用静态导出
   }
   
